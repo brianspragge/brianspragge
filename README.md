@@ -17,12 +17,13 @@ Not sure why you’re here but!
 - Speaks: JorgeScript, Python, Git, and sarcasm
 - Can’t: Dockerize, Typescript, or find my semicolons
 - Special: Make bugs look like features since 199x
+- Nunchuck skill, and biking skills.
 
 ---
 
 ## 🐟 Projects
 
-- Repos full of: Mystery meat code, 2AM ideas, and README riddles
+- Repos full of: Ai business quarrels, 2AM ideas, and README riddles
 - Side projects: Started, forgotten, but never finished.  Except Ruler, for vim.
 - If it works: It's probably by accident.
 
@@ -36,16 +37,16 @@ Not sure why you’re here but!
 
 ---
 
-## 🍕 Fun Facts
+## Matters of life and death
 
-- Debugging is faster than running with scissors, but less safe.
+- Debugging is faster than running with scissors, and less fun.
 - Every great project begins with a TODO and ends with... I can't remember
-- Once solved a bug by staring at it for 42 minutes.  Subway bus game helps.
+- Once solved a bug by eating it.  Try "Nuoc mam"
 
 ---
 
-> _“Code is like my wife. Sometimes it smells funny.” — Your Mom_
+> _“Code is like my son. Sometimes it smells funny.” — Your Mom_
 
 Thanks for visiting!  
 Please open an issue if you spot a typo, a bug, or just want to say 'huh?'.  
-Happy coding, Bia***! 🥚
+Happy coding, Bia***!
