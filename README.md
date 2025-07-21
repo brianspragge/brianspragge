@@ -1,6 +1,6 @@
-# 🤷‍♂️ Brian Spragge, Welcome to My GitHub
+# 🤷‍♂️ Brian Spragge, Welcome to THIS
 
-Hi, not sure why you’re here but!
+Not sure why you’re here but!
 
 ---
 
