@@ -3,8 +3,8 @@ Not sure why you’re here.
 Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "The Beginning")
 
 ## Past Projects
-- [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban")
-    - <img src="https://pbs.twimg.com/media/GjOkpK3a0AAoxdl?format=jpg&name=large" width="50" alt="3D Printed Goban">
+- <img src="https://pbs.twimg.com/media/GjOkpK3a0AAoxdl?format=jpg&name=large" width="50" alt="3D Printed Goban"> [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban")
+
 - [gpgcli](https://github.com/brianspragge/gpgcli "gpgcli") - Fast GPG key creation/deletion
 - [pctoolbelt](https://github.com/brianspragge/pctoolbelt "pctoolbelt") - Common tools usually found online, for offline
 - [Search](https://github.com/brianspragge/search "Search") - Kinda broken, but for seeing context around search
