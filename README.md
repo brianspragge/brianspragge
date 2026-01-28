@@ -1,6 +1,6 @@
 Not sure why you’re here.
 
-Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "The Beginning")
+<img src="https://avatars.githubusercontent.com/u/191672390?v=4&size=64 width="50" alt="3D Printed Goban"> Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "The Beginning")
 
 ## Past Projects
 - [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban") <img src="https://pbs.twimg.com/media/GjOkpK3a0AAoxdl?format=jpg&name=large" width="50" alt="3D Printed Goban"> 
