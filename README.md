@@ -1,7 +1,7 @@
 Not sure why you’re here.
 
-## Story about my intro to programming:
-    - https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt
+Story about my intro to programming:
+    [About_Me](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "Here")
 
 ## Past Projects
 - 3D printed Goban
