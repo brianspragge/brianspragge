@@ -1,4 +1,6 @@
 Not sure why you’re here.
+Story about my intro to programming:
+    - https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt
 
 ## Past Projects
 - 3D printed Goban
