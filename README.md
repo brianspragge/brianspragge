@@ -3,9 +3,8 @@ Not sure why you’re here.
 Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "The Beginning")
 
 ## Past Projects
-- 3D printed [Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "Goban")
-- gpgcli - Fast GPG key creation/deletion
-    - https://github.com/brianspragge/gpgcli
+- [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban")
+- [gpgcli](https://github.com/brianspragge/gpgcli "gpgcli") - Fast GPG key creation/deletion
 - pctoolbelt - Common tools usually found online, for offline
     - https://github.com/brianspragge/pctoolbelt
 - search - Kinda broken, but for seeing context around search
