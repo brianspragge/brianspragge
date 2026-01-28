@@ -4,6 +4,7 @@ Story about my intro to programming [Here](https://github.com/brianspragge/First
 
 ## Past Projects
 - [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban")
+    - ![stuff](https://pbs.twimg.com/media/GjOkpK3a0AAoxdl?format=jpg&name=large "3D Printed Goban img")
 - [gpgcli](https://github.com/brianspragge/gpgcli "gpgcli") - Fast GPG key creation/deletion
 - [pctoolbelt](https://github.com/brianspragge/pctoolbelt "pctoolbelt") - Common tools usually found online, for offline
 - [Search](https://github.com/brianspragge/search "Search") - Kinda broken, but for seeing context around search
