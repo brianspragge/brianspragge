@@ -5,15 +5,12 @@ Story about my intro to programming [Here](https://github.com/brianspragge/First
 ## Past Projects
 - [3D Printed Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "3D Printed Goban")
 - [gpgcli](https://github.com/brianspragge/gpgcli "gpgcli") - Fast GPG key creation/deletion
-- pctoolbelt - Common tools usually found online, for offline
-    - https://github.com/brianspragge/pctoolbelt
-- search - Kinda broken, but for seeing context around search
-    - https://github.com/brianspragge/search
+- [pctoolbelt](https://github.com/brianspragge/pctoolbelt "pctoolbelt") - Common tools usually found online, for offline
+- [Search](https://github.com/brianspragge/search "Search") - Kinda broken, but for seeing context around search
 - lots of configs for different Linux Distros and setups
-    - https://github.com/brianspragge/linux4family
-    - https://github.com/brianspragge/personal
-- first-ever-program - add/remove learned python definitions
-    - https://github.com/brianspragge/FirstProgramEver
+    - [Linux4Family](https://github.com/brianspragge/linux4family "Linux4Family")
+    - [Personal home configuration files](https://github.com/brianspragge/personal "Personal home configuration files")
+- [First Ever Program](https://github.com/brianspragge/FirstProgramEver "First Ever Program") - add/remove learned python definitions
 
 ## Silly
 - Debugging is slower than running with scissors, and less fun.
