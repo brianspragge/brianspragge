@@ -1,11 +1,9 @@
 Not sure why you’re here.
 
-Story about my intro to programming:
-    [About_Me](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "Here")
+Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "Here")
 
 ## Past Projects
-- 3D printed Goban
-    - https://x.com/BrianSpragge/status/1888033702120210512?s=20
+- 3D printed [Goban](https://x.com/BrianSpragge/status/1888033702120210512?s=20 "Goban")
 - gpgcli - Fast GPG key creation/deletion
     - https://github.com/brianspragge/gpgcli
 - pctoolbelt - Common tools usually found online, for offline
