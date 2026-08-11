@@ -1,4 +1,4 @@
-Not sure why you’re here.
+Not sure why you’re here.  ai == google, nothing more, nothing less.
 
 <img src="https://avatars.githubusercontent.com/u/191672390?v=4&size=64" width="50" alt="avatar img"> Story about my intro to programming [Here](https://github.com/brianspragge/FirstProgramEver/blob/main/README.txt "The Beginning")
 
